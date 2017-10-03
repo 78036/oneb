@@ -16,3 +16,4 @@ matrix dimensions:  1300 130
 matrix dimensions:  1400 140
 result is written to CompareDistanceCompFig.png
 result is written to CompareCorrelationCompFig.png
+Tue Oct  3 11:42:53 EDT 2017
