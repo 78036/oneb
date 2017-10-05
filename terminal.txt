@@ -1,4 +1,4 @@
-Thu Oct  5 13:00:06 EDT 2017
+Thu Oct  5 13:06:03 EDT 2017
 starting comparing distance computation .....
 matrix dimensions:  100 10
 matrix dimensions:  200 20
@@ -16,4 +16,4 @@ matrix dimensions:  1300 130
 matrix dimensions:  1400 140
 result is written to CompareDistanceCompFig.png
 result is written to CompareCorrelationCompFig.png
-Thu Oct  5 13:00:39 EDT 2017
+Thu Oct  5 13:09:32 EDT 2017
